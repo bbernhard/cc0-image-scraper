@@ -10,7 +10,7 @@ In order to run this script, set the `FLICKR_API_KEY`, `FLICKR_API_SECRET`, `BAS
 
 `SEARCH_QUERY`...the search expression (e.q: `dog`)
 
-A flickr API key + secret can be requested [here]((https://www.flickr.com/services/api/misc.api_keys.html))
+A flickr API key + secret can be requested [here](https://www.flickr.com/services/api/misc.api_keys.html)
 
 ## Limitations/Todo's:
   
